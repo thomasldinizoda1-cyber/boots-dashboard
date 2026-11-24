@@ -1,4 +1,5 @@
 window.BOOTS_CONFIG = {
-  supabaseUrl: "https://SEU-PROJETO.supabase.co",
-  anonKey: "SUA_CHAVE_PUBLICA_ANON_OU_PUBLISHABLE"
+  supabaseUrl: "https://evxsszkjwbregszpcrgb.supabase.co",
+  anonKey: "sb_publishable_dpYPvKf8xhG2u2QPJcqg2Q_yVYBJbdV",
+  table: "leituras_boots"
 };
